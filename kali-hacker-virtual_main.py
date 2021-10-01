@@ -1,2 +1,2 @@
-# prints hello kali
-print("Hello Kali")
+# prints hello kali Hacktoberfest
+print("Hello Kali Hactoberfest")
